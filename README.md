@@ -1,7 +1,7 @@
 # CRUD-Flask
 This web application does Create, Read, Update and Delete operations. Uses Python 3 (Flask) in Backend, MySQL as database engine and Bootstrap in Frontend.
 
-Preview:
+## Preview:
 ![image](https://user-images.githubusercontent.com/57805712/130618507-4ee83e53-af1a-4a45-b5d4-593f4ee3066f.png)
 
 ## Requirements
