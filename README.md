@@ -10,6 +10,8 @@ This web application does Create, Read, Update and Delete operations. Uses Pytho
 - MySQL
 
 ## Ussage
+Clone this repository:
+- git clone https://github.com/elpollazo/CRUD-Flask
 
 Install the requiered libraries:
 - python3 -m pip install flask
